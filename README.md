@@ -1,0 +1,2 @@
+# frankfurtgoldspielbank
+Static site: frankfurtgoldspielbank
